@@ -188,7 +188,7 @@ h2{
     transition: 0.3s;
 }
 .grid-photo-item:hover::before{
-    background-color: rgba(64, 65, 73, 0.5);
+    background-color: rgba(64, 65, 73, 0);
 }
 .grid-photo-item img {
     width: 100%;
